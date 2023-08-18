@@ -12,8 +12,6 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 This is a challenge from Frontend mentor that i've created to improve my skills, focusing on use flexbox concepts.
